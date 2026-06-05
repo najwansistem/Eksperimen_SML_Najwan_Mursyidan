@@ -1,1 +1,3 @@
-# Eksperimen_SML_Najwan_Mursyidan
+# Eksperimen SML Najwan_Mursyidan
+
+Repository untuk eksperimen dan preprocessing otomatis.
